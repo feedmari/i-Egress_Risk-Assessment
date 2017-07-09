@@ -7,3 +7,5 @@ In the PDF is possible to see which are the 2 risk assesments to deploy, we were
 ## Authors
 
 * **Marco Mancini** - https://www.linkedin.com/in/marco-mancini-6b2969108/
+* **Federico Marinelli** - https://www.linkedin.com/in/feedmari/
+* **Federico Giannoni** 
